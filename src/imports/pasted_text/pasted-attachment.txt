@@ -1,0 +1,343 @@
+For Figma Make, you'll get much better results if you **don't ask for a website**.
+
+Ask for a **cinematic interactive experience**.
+
+Most people prompt:
+
+> "Create a research vault website with dark theme."
+
+And Figma generates another SaaS dashboard.
+
+You want something much more ambitious.
+
+---
+
+# MASTER FIGMA MAKE PROMPT
+
+Design a premium futuristic web experience called **"The Research Vault"**.
+
+This is not a traditional website, portfolio, blog, dashboard, SaaS application, or documentation platform.
+
+The experience should feel like entering a legendary archive of human knowledge located outside space and time.
+
+The visual identity combines:
+
+* Library of Alexandria
+* Interstellar
+* Dune
+* NASA Mission Control
+* Ancient observatories
+* Obsidian knowledge graph
+* High-end museum installations
+* Cinematic science-fiction interfaces
+
+The mood should feel:
+
+* Grand
+* Intelligent
+* Timeless
+* Mysterious
+* Historic
+* Futuristic
+* Exploratory
+* Scholarly
+
+Avoid:
+
+* Startup SaaS aesthetics
+* Generic dashboards
+* Corporate UI
+* Neon cyberpunk overload
+* Simple card grids
+* Generic portfolio layouts
+
+Use a dark luxury theme with:
+
+* Deep space backgrounds
+* Stone and archive-inspired textures
+* Subtle gold accents
+* Glassmorphism only where appropriate
+* Holographic information panels
+* Depth and layered environments
+* Large-scale architecture
+* Cinematic lighting
+
+The website should feel like a physical place that can be explored.
+
+---
+
+### LANDING EXPERIENCE
+
+Create a dramatic landing sequence.
+
+The user arrives before a massive ancient-futuristic vault door floating in a cosmic void.
+
+Behind the door are stars, constellations, and floating knowledge structures.
+
+Large title:
+
+THE RESEARCH VAULT
+
+Subtitle:
+
+A lifelong archive of curiosity, exploration, and learning.
+
+Primary interaction:
+
+Enter The Vault
+
+The entrance should feel monumental and immersive.
+
+---
+
+### HALL OF DOMAINS
+
+After entering, reveal a giant knowledge hall.
+
+The hall contains multiple knowledge domains represented as architectural wings, portals, or floating structures.
+
+Domains include:
+
+Technology
+
+Science
+
+Humanities
+
+Literature
+
+Psychology
+
+History
+
+Philosophy
+
+Business
+
+Future Studies
+
+Space Exploration
+
+Each domain should feel unique while belonging to the same world.
+
+Navigation should feel like exploration rather than clicking menu items.
+
+---
+
+### KNOWLEDGE GALAXY
+
+Create a massive interactive knowledge map.
+
+Represent topics as stars, planets, nodes, or glowing artifacts.
+
+Connections between topics form visible constellations.
+
+Examples:
+
+Psychology connected to Neuroscience, Philosophy, Behavioral Economics, and Education.
+
+Artificial Intelligence connected to Robotics, Data Science, Ethics, and Future Studies.
+
+Users can zoom, pan, and explore.
+
+The visualization should resemble a living universe of knowledge.
+
+This is one of the main signature experiences.
+
+---
+
+### TOPIC CHAMBER TEMPLATE
+
+Every topic should open into a unique knowledge chamber.
+
+The chamber contains:
+
+Overview
+
+Why I Explored This Topic
+
+Learning Roadmap
+
+Research Notes
+
+Key Discoveries
+
+Books
+
+Videos
+
+Articles
+
+Connections
+
+Questions
+
+Future Exploration
+
+The layout should feel like entering a research room rather than reading a blog page.
+
+Include immersive visual storytelling.
+
+---
+
+### THE OBSERVATORY
+
+Create a command center showing current research activity.
+
+Display:
+
+Currently Researching
+
+Recently Completed
+
+Reading Queue
+
+Active Investigations
+
+Research Statistics
+
+The observatory should resemble a futuristic scientific monitoring station.
+
+Use holographic displays and animated data visualizations.
+
+---
+
+### THE LIBRARY
+
+Design a magnificent research library.
+
+Include:
+
+Bookshelves
+
+Research papers
+
+Courses
+
+Videos
+
+Articles
+
+Collections
+
+The atmosphere should feel like a fusion of an ancient archive and a futuristic knowledge system.
+
+Books and resources should feel like discoverable artifacts.
+
+---
+
+### TIMELINE OF DISCOVERY
+
+Create a visual timeline documenting intellectual growth.
+
+This is not a personal life timeline.
+
+It tracks the evolution of curiosity.
+
+Examples:
+
+2026:
+Artificial Intelligence
+Astronomy
+Psychology
+
+2027:
+Economics
+History
+Robotics
+
+Display learning journeys and topic progression.
+
+Use immersive visual storytelling.
+
+---
+
+### FUTURE QUESTIONS HALL
+
+Create a dedicated section for unanswered questions.
+
+Examples:
+
+Can consciousness be simulated?
+
+Will humanity become interplanetary?
+
+Can AGI surpass human intelligence?
+
+What creates meaning?
+
+This space should feel philosophical and contemplative.
+
+Questions should appear as floating ideas waiting to be explored.
+
+---
+
+### THE NEXUS
+
+Create a final master visualization showing the entire vault.
+
+Display:
+
+All topics
+
+All notes
+
+All essays
+
+All research areas
+
+All connections
+
+All future questions
+
+Represent everything as a living interconnected network.
+
+This should be the most visually impressive area of the entire experience.
+
+---
+
+### INTERACTIONS
+
+Include:
+
+Smooth zooming
+
+Parallax movement
+
+Layered depth
+
+Portal transitions
+
+Constellation animations
+
+Particle systems
+
+Floating artifacts
+
+Knowledge node expansion
+
+Interactive timelines
+
+Immersive scrolling
+
+World exploration mechanics
+
+Subtle motion throughout the experience
+
+---
+
+### DESIGN QUALITY
+
+The final result should feel like:
+
+A museum exhibit created by NASA, the Library of Alexandria, and the Interstellar production team.
+
+Prioritize atmosphere, storytelling, exploration, and wonder over traditional website conventions.
+
+The experience should feel like entering a living universe of knowledge rather than browsing pages.
+
+---
+
+One more tip before you burn through 3000 credits:
+
+Generate **each major area separately** (Landing Hall, Knowledge Galaxy, Topic Chamber, Library, Nexus, Observatory) rather than one giant prompt. Figma Make often produces better results when each screen is treated as a standalone masterpiece, then stitched together into a unified design system.
